@@ -1,0 +1,17 @@
+.container {
+    height: 400px;
+    width: 500px;
+    border: 1px solid black;
+    font-size: 20px;
+    text-decoration: underline;
+    background-color: aquamarine;
+    padding-left: 20px;
+}
+.input {
+    width: 200px;
+}
+.textarea {
+    width: 500px;
+    height: 200px;
+    background-color:aqua;
+}
